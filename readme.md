@@ -1,8 +1,5 @@
-# Title
-blablabla
+# Fullstack React Node Express MySQL (Sequelize)
 
-## Title
-blabalbal
+## Authentication with jwt
 
-### TItle
-blabalbal
+### localStorage of jwt credentials
