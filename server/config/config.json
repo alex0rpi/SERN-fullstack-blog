@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "gatomies2022!",
+    "password": "your_password",
     "database": "fullstackdb",
     "host": "127.0.0.1",
     "dialect": "mysql"
